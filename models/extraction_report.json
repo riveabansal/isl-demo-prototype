@@ -1,0 +1,107 @@
+{
+  "train/A": {
+    "attempted": 300,
+    "detected": 293,
+    "exact_duplicates_skipped": 0
+  },
+  "train/B": {
+    "attempted": 300,
+    "detected": 224,
+    "exact_duplicates_skipped": 0
+  },
+  "train/C": {
+    "attempted": 300,
+    "detected": 254,
+    "exact_duplicates_skipped": 0
+  },
+  "train/D": {
+    "attempted": 300,
+    "detected": 234,
+    "exact_duplicates_skipped": 0
+  },
+  "train/L": {
+    "attempted": 300,
+    "detected": 282,
+    "exact_duplicates_skipped": 0
+  },
+  "train/V": {
+    "attempted": 300,
+    "detected": 227,
+    "exact_duplicates_skipped": 0
+  },
+  "train/Y": {
+    "attempted": 287,
+    "detected": 282,
+    "exact_duplicates_skipped": 13
+  },
+  "validation/A": {
+    "attempted": 100,
+    "detected": 97,
+    "exact_duplicates_skipped": 0
+  },
+  "validation/B": {
+    "attempted": 100,
+    "detected": 78,
+    "exact_duplicates_skipped": 0
+  },
+  "validation/C": {
+    "attempted": 100,
+    "detected": 87,
+    "exact_duplicates_skipped": 0
+  },
+  "validation/D": {
+    "attempted": 100,
+    "detected": 79,
+    "exact_duplicates_skipped": 0
+  },
+  "validation/L": {
+    "attempted": 100,
+    "detected": 96,
+    "exact_duplicates_skipped": 0
+  },
+  "validation/V": {
+    "attempted": 100,
+    "detected": 76,
+    "exact_duplicates_skipped": 0
+  },
+  "validation/Y": {
+    "attempted": 88,
+    "detected": 69,
+    "exact_duplicates_skipped": 12
+  },
+  "test/A": {
+    "attempted": 200,
+    "detected": 197,
+    "exact_duplicates_skipped": 0
+  },
+  "test/B": {
+    "attempted": 199,
+    "detected": 150,
+    "exact_duplicates_skipped": 1
+  },
+  "test/C": {
+    "attempted": 200,
+    "detected": 169,
+    "exact_duplicates_skipped": 0
+  },
+  "test/D": {
+    "attempted": 190,
+    "detected": 145,
+    "exact_duplicates_skipped": 10
+  },
+  "test/L": {
+    "attempted": 200,
+    "detected": 194,
+    "exact_duplicates_skipped": 0
+  },
+  "test/V": {
+    "attempted": 200,
+    "detected": 151,
+    "exact_duplicates_skipped": 0
+  },
+  "test/Y": {
+    "attempted": 141,
+    "detected": 141,
+    "exact_duplicates_skipped": 59
+  }
+}

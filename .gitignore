@@ -1,0 +1,15 @@
+.venv/
+venv/
+env/
+runtime/
+__pycache__/
+*.py[cod]
+INCLUDE50/
+keypoints_smoke/
+keypoints/
+*.pkl
+.cache/
+*.log
+.vscode/
+.DS_Store
+Thumbs.db

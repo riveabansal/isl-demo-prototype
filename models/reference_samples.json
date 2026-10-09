@@ -1,0 +1,37 @@
+[
+  {
+    "label": "A",
+    "source": "work/data/realsign/Testing/A/698.jpg",
+    "selection": "first usable held-out sample in deterministic extraction order"
+  },
+  {
+    "label": "B",
+    "source": "work/data/realsign/Testing/B/952.jpg",
+    "selection": "first usable held-out sample in deterministic extraction order"
+  },
+  {
+    "label": "C",
+    "source": "work/data/realsign/Testing/C/704.jpg",
+    "selection": "first usable held-out sample in deterministic extraction order"
+  },
+  {
+    "label": "D",
+    "source": "work/data/realsign/Testing/D/929.jpg",
+    "selection": "first usable held-out sample in deterministic extraction order"
+  },
+  {
+    "label": "L",
+    "source": "work/data/realsign/Testing/L/192.jpg",
+    "selection": "first usable held-out sample in deterministic extraction order"
+  },
+  {
+    "label": "V",
+    "source": "work/data/realsign/Testing/V/694.jpg",
+    "selection": "first usable held-out sample in deterministic extraction order"
+  },
+  {
+    "label": "Y",
+    "source": "work/data/realsign/Testing/Y/799.jpg",
+    "selection": "first usable held-out sample in deterministic extraction order"
+  }
+]

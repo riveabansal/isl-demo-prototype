@@ -1,0 +1,20 @@
+{
+  "dataset": "RealSign ISL alphabet",
+  "repository": "https://github.com/RealSign62/RealSign-Indian-Sign-Language-Dataset",
+  "archive_url": "https://media.githubusercontent.com/media/RealSign62/RealSign-Indian-Sign-Language-Dataset/main/Dataset.zip",
+  "archive_sha256": "008cae248e346b8c31fbbea057fcc3f69c6909d29a88e6bb1fb0369f528de2b5",
+  "license": "CC0 1.0 (repository LICENSE)",
+  "classes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "L",
+    "V",
+    "Y"
+  ],
+  "hand_model": "https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/latest/hand_landmarker.task",
+  "hand_model_sha256": "fbc2a30080c3c557093b5ddfc334698132eb341044ccee322ccf8bcf3607cde1",
+  "INCLUDE_used": false,
+  "sign_classifier_pretrained": false
+}

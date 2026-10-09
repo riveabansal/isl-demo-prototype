@@ -1,0 +1,64 @@
+{
+  "reference_image_predictions": [
+    {
+      "expected": "A",
+      "label": "A",
+      "candidate": "A",
+      "score": 1.0,
+      "hands": 2,
+      "latency_ms": 149
+    },
+    {
+      "expected": "B",
+      "label": "B",
+      "candidate": "B",
+      "score": 0.9999991655349731,
+      "hands": 2,
+      "latency_ms": 55
+    },
+    {
+      "expected": "C",
+      "label": "C",
+      "candidate": "C",
+      "score": 0.9999955892562866,
+      "hands": 1,
+      "latency_ms": 37
+    },
+    {
+      "expected": "D",
+      "label": "D",
+      "candidate": "D",
+      "score": 1.0,
+      "hands": 2,
+      "latency_ms": 53
+    },
+    {
+      "expected": "L",
+      "label": "L",
+      "candidate": "L",
+      "score": 0.9999839067459106,
+      "hands": 1,
+      "latency_ms": 36
+    },
+    {
+      "expected": "V",
+      "label": "V",
+      "candidate": "V",
+      "score": 0.9999978542327881,
+      "hands": 1,
+      "latency_ms": 36
+    },
+    {
+      "expected": "Y",
+      "label": "Y",
+      "candidate": "Y",
+      "score": 1.0,
+      "hands": 2,
+      "latency_ms": 51
+    }
+  ],
+  "blank_frame": "rejected",
+  "invalid_image": "400",
+  "external_origin": "403",
+  "live_signer_accuracy": "not measured"
+}
